@@ -48,7 +48,7 @@ npm install
 npm run tailwind-init
 ```
 
-## 🚀 Comandos Disponibles
+## 🚀 Comando para inicar el proyecto
 
 ### Desarrollo
 ```bash
