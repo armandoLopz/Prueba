@@ -92,7 +92,7 @@ a su identidad corporativo, los colores seleccionados fueron :
 
 ### Colores: 
 - **Azul Corporativo**: `#212F5A`
-- **Dorado**: `#FFD700`
+- **Amarillo**: `#FFD700`
 - **Fondo**: `#F9FAFB` (gray-50)
 
 ## Decisiones tecnicas relevantes
@@ -104,10 +104,10 @@ Adicionalmente, TypeScript proporciona detección temprana de errores durante el
 ### Dashboard como "Smart Component"
 Se implementó el archivo Dashboard.vue como el componente inteligente de la aplicación, estableciéndolo como el punto central de orquestación de toda la aplicación. Este componente se encarga exclusivamente de:
 
-Gestión de estado global: Manejo centralizado de los datos de productos, filtros y estados de carga
-Llamadas a APIs: Comunicación con los servicios externos (productos y tasa de cambio)
-Distribución de datos: Propaga la información procesada hacia los componentes hijos
-Coordinación de componentes: Orquesta la interacción entre Statistics, Filters y ListProducts
+* Gestión de estado global: Manejo centralizado de los datos de productos, filtros y estados de carga
+* Llamadas a APIs: Comunicación con los servicios externos (productos y tasa de cambio)
+* Distribución de datos: Propaga la información procesada hacia los componentes hijos
+* Coordinación de componentes: Orquesta la interacción entre Statistics, Filters y ListProducts
 ---
 
 **Desarrollado por Armando López para Tiendas Daka**
