@@ -1,0 +1,17 @@
+Color Palette:
+
+Primary Yellow: A bright, saturated yellow, prominent in the header and search bar.
+
+Approximate Hex: #FFD700 or similar (Pantone 109 C or a vibrant golden yellow)
+
+Dark Blue/Navy: Used for the navigation bar, footer, and some text.
+
+Approximate Hex: #212F5A or similar (a deep, rich navy blue)
+
+White: Used for text on darker backgrounds and potentially for backgrounds of content areas.
+
+Hex: #FFFFFF
+
+Black/Dark Gray: Used for most body text and icons.
+
+Approximate Hex: #333333 or #000000
